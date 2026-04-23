@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="15" fill="#0a0a0a" stroke="#f3e7c9" stroke-width="1"/>
+  <text x="16" y="22" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-weight="700" font-size="18"
+        fill="#f3e7c9" letter-spacing="-1">BS</text>
+</svg>
